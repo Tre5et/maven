@@ -3,5 +3,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.treset</groupId>
   <artifactId>vanillaconfig</artifactId>
-  <version>1.1.1+1.18.x</version>
+  <version>1.1.2+1.18.x</version>
 </project>
